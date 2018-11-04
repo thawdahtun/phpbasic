@@ -1,0 +1,9 @@
+Golden Rules
+============
+
+1. KISS
+2. Separation of Cocern
+3. Security
+	-Only One entry point
+4. Developer Roles
+5. Infrastructure
